@@ -2,7 +2,7 @@
 
 Simples piano feito utilizando javascript.
 
-<img src="https://github.com/andersonhsporto/js-piano/tree/main/resources/Piano.png" alt="Piano" width="70%">
+<img src="https://github.com/andersonhsporto/js-piano/blob/main/resources/Piano.png" alt="Piano" width="70%">
 
 ## 🛠️ Abrir e rodar o projeto
 
