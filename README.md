@@ -1,8 +1,8 @@
 # Piano em Javascript
 
-Exemplo desenvolvido durante o curso "JavaScript Programando na linguagem da web" da Alura
+Simples piano feito utilizando javascript.
 
-<img src="https://github.com/andersonhsporto/A-aparecidaNutri/blob/main/0-img/Alura-js.png" alt="Piano" width="70%">
+<img src="https://github.com/andersonhsporto/js-piano/tree/main/resources/Piano.png" alt="Piano" width="70%">
 
 ## 🛠️ Abrir e rodar o projeto
 
